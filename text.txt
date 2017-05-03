@@ -27,7 +27,7 @@ CB.EN.U4.CSE[    ]  status remove
 [     ] [add member]
  submit
 when member is added 
-check team id.
+check team id. 
 if assigned report error.
 else
     assign team id.
